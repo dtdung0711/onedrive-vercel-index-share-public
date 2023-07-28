@@ -38,8 +38,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    '<p class="text-dark">
-          Copyright <span>©</span> 2022-2023 - create by<a class="text-decoration-none" href="https://www.facebook.com/profile.php?id=100090370753559"> <b>Duxng</b></a>.',
+    'Copyright <span>©</span> 2022-2023 - create by <a href="https://www.facebook.com/profile.php?id=100090370753559" rel="noopener noreferrer">Duxng</a>.',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
