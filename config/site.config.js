@@ -52,8 +52,8 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'GitHub',
-      link: 'https://github.com/spencerwooo/onedrive-vercel-index',
+      name: 'Facebook',
+      link: 'https://www.facebook.com/profile.php?id=100090370753559',
     },
   ],
 
